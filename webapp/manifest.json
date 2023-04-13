@@ -1,7 +1,7 @@
 {
     "_version": "1.49.0",
     "sap.app": {
-        "id": "sap.demo.fe.flightquery",
+        "id": "sap.fe.demo.flightquery",
         "type": "application",
         "i18n": "i18n/i18n.properties",
         "applicationVersion": {
@@ -82,7 +82,7 @@
             "i18n": {
                 "type": "sap.ui.model.resource.ResourceModel",
                 "settings": {
-                    "bundleName": "sap.demo.fe.flightquery.i18n.i18n"
+                    "bundleName": "sap.fe.demo.flightquery.i18n.i18n"
                 }
             },
             "": {

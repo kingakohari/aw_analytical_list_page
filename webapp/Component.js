@@ -3,7 +3,7 @@ sap.ui.define(
     function (Component) {
         "use strict";
 
-        return Component.extend("sap.demo.fe.flightquery.Component", {
+        return Component.extend("sap.fe.demo.flightquery.Component", {
             metadata: {
                 manifest: "json"
             }
